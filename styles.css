@@ -1,1 +1,4 @@
-/*  your css code here. If applicable */
+table,th,td{
+	border:1px solid;
+	border-collapse:chocolate;
+}
